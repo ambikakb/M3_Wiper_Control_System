@@ -3,7 +3,7 @@
 | Test ID |	Description |	Expected Input |	Expected Output |	
 | ------- | ----------- | -------------- | ---------------- | 
 | H_01 |	wiper is moving |PASSED|SUCCESS |
-| H_02 |wiper will came back to initailposition after pressing abutton | PASSED | SUCCESS |
+| H_02 |wiper will came back to initail position after pressing a button | PASSED | SUCCESS |
 
 ## Low Level Test Plan
 
