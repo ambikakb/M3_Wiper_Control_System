@@ -31,6 +31,10 @@
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/101825270/168479387-43a21d1f-d897-456a-960e-6a13650e482f.png)
 
+## codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6ad56f57cc9a40a8ba45198371563649)](https://www.codacy.com/gh/ambikakb/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ambikakb/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 
 | Folder | Description |
@@ -54,7 +58,10 @@
 
 ## Learning Resources
 
-*   [git inspector](https://github.com/ejwa/gitinspector)
-*   [github workflow](https://docs.github.com/en/actions/learn-github-action)
-*   [git inspector](https://github.com/ejwa/gitinspector)
-*   [github workflow](https://docs.github.com/en/actions/learn-github-action)
+[git inspector](https://github.com/ejwa/gitinspector)
+
+[github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+[git inspector](https://github.com/ejwa/gitinspector)
+
+[github workflow](https://docs.github.com/en/actions/learn-github-action)
