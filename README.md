@@ -13,25 +13,25 @@
 
 *   To remove the raindrops, dust oilor any water from the windshield.
 
-# M3_Wiper_Control_System
+## M3_Wiper_Control_System
 
-# CI
+## CI
 
 [![CI](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CI.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CI.yml)
 
-# CPP
+## CPP
 
 [![CPP](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CPP.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CPP.yml)
 
-# Git_Inspector
+## Git_Inspector
 
 [![Git-Inspector](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/Git-Inspector.yml)
 
-# codiga
+## codiga
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/101825270/168479387-43a21d1f-d897-456a-960e-6a13650e482f.png)
 
-# Folder Structure
+## Folder Structure
 
 | Folder | Description |
 | ------ | ----------- |
@@ -42,17 +42,17 @@
 | 5_Report | Report of the whole project |
 | 6_Images | Images of the Output |
 
-# GitHub Actions
+## GitHub Actions
 
 *   Build using Make for CI
 *   Static code analysis using cppcheck
 
-# References
+## References
 
 *   You tube embedded learning  
 *   Reference from embedded text books
 
-# Learning Resources
+## Learning Resources
 
 *   [git inspector](https://github.com/ejwa/gitinspector)
 *   [github workflow](https://docs.github.com/en/actions/learn-github-action)
