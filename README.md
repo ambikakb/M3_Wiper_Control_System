@@ -14,6 +14,8 @@
 
 # M3_Wiper_Control_System
 
+[![CI](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CI.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CI.yml)
+
 ## Folder Structure
 
 | Folder | Description |
