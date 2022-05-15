@@ -19,6 +19,10 @@
 
 [![CPP](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CPP.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/CPP.yml)
 
+
+
+[![Git-Inspector](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/ambikakb/M3_Wiper_Control_System/actions/workflows/Git-Inspector.yml)
+
 ## Folder Structure
 
 | Folder | Description |
