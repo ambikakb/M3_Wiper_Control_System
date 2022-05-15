@@ -1,17 +1,14 @@
 /*PROJECT :- WIPER CONTROL SYSTEM*/
 
 //DEFINING all  Required pins
-
 #define GPIOD_BASE_ADDR 0x40020C00	//Defining Base address for GPIO//for LESDs
 #define GPIOD_ODR_OFFSET 0x14       //LED are outputs so we are using ODR //Defining Offset Address for LEDs
 #define GPIOD_ODR *(volatile long *)(GPIOD_BASE_ADDR + GPIOD_ODR_OFFSET)
-
 //Adding Base address and offset address for LEDs
 
 #define RCC_BASE_ADDR 0x40023800 //Defining RCC Address
 #define RCC_AHB1ENR_OFFSET 0x30   //Defining Offset for RCC
 #define RCC_AHB1ENR *(volatile long *)(RCC_BASE_ADDR + RCC_AHB1ENR_OFFSET)
-
 //Adding Base address and offset address for RCC
 
 #define GPIOA_BASE_ADDR 0x40020000  //Defining Base address for switch
@@ -28,7 +25,6 @@
 #define GPIOA_MODE_OFFSET 0x00
 #define GPIOA_MODE *(volatile long *)(GPIOA_BASE_ADDR + GPIOA_MODE_OFFSET)
 //Adding Base address and offset address to clear Previous Switch settings
-
 
 //STARTING of Main PROGRAM
 int main()
@@ -139,7 +135,6 @@ int main()
 						}
 
 						}
-
 
 	}
 	return 0;
