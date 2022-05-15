@@ -9,7 +9,6 @@
 
 ![wiper-mechanism-large](https://user-images.githubusercontent.com/101825270/167987079-ffd12bb7-82a0-4d98-820c-bd7b974eca2b.jpg)
 
-
 ## OBJECTIVE
 
 *   To remove the raindrops, dust oilor any water from the windshield.
@@ -22,19 +21,19 @@
 
 ## Why
 
-* The main purpose of the wiper system is to clean the wind screen sufficiently to provide clear visibility at all the time.
+*   The main purpose of the wiper system is to clean the wind screen sufficiently to provide clear visibility at all the time.
 
 ## When 
 
-* The main purpose is to be clear the windshield from rain, oil, dust and snow. So that we use wiper whenever these things get stuck to the windshield.
+*   The main purpose is to be clear the windshield from rain, oil, dust and snow. So that we use wiper whenever these things get stuck to the windshield.
 
 ## What 
 
-* Wiper system comprises a wiper drive and two wiper arms at a certain angle across the windshield, it is used to remove the dust, water, oil and snow.
+*   Wiper system comprises a wiper drive and two wiper arms at a certain angle across the windshield, it is used to remove the dust, water, oil and snow.
 
 ## How
 
-* Wiper systems are operated by an electric motor which is attached to a worn gear. It transmits the necessary force to a long rod that sets the wiper arms in motion. The worm gear is able to generate the force required to move the wipers as fast as they need to move.
+*   Wiper systems are operated by an electric motor which is attached to a worn gear. It transmits the necessary force to a long rod that sets the wiper arms in motion. The worm gear is able to generate the force required to move the wipers as fast as they need to move.
 
 
 ## SWOT ANALYSIS
@@ -70,15 +69,15 @@
 
 | Test ID |	Description |	
 | ------- | ------------- | 
-| H_01 |  Proper Hardware materials.|
-| H_02 |  Wiper should be connected to Windshield.|
-| H_03 |  It requires missionary conditions.|
-| H_04 | To start that the the material is to be removed should be  on the screen. |
+| H_01 | Proper Hardware materials.|
+| H_02 | Wiper should be connected to Windshield.|
+| H_03 | It requires missionary conditions.|
+| H_04 | To start that the the material is to be removed should be  on the screen.|
 
 ## Low Level Requirements
 
 | Test ID |	Description |
-| ------- |  -------------- | 
+| ------- | -------------- | 
 | L_01	| System should work properly. |
 | L_02 | Required amount of power is needed. |
 | L_03	| High maintanance is required. |
